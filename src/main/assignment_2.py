@@ -117,7 +117,7 @@ def main():
     print("\nVector b:")
     print(b)
     x = np.linalg.solve(A, b)
-    print("\nSolution vector (second derivatives at nodes):")
+    print("\nVector x:")
     print(x)
 if __name__ == "__main__":
     main()
