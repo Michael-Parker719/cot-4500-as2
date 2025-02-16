@@ -1,4 +1,4 @@
-# To run this code go run
+# To run the main function of this code run
 `cd src/main`<br>
 `python assignment_2.py`
 
